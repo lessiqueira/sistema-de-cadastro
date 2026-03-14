@@ -1,5 +1,5 @@
 # portfólio
-Statos do projetO: em desenvolvivento
+Statos do projeto: em desenvolvivento
 
 para rodar esse projeto: por favor digite:
 
